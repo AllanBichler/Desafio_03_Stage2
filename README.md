@@ -27,4 +27,4 @@ Você receberá um código com o projeto desenvolvido durante a Fase 02, mas, a
 Como você pode ver na imagem abaixo, a página (exceto o botão) continua funcionando normalmente mas, quando você abrir o código, vai se deparar com os elementos do HTML todos bagunçados... 👀
 ![Untitled](https://github.com/AllanBichler/Desafio_03_Stage2/assets/110675388/a2ecbade-6caa-40ae-b416-7af8de9eb7ce)
 
-Para facilitar, vamos deixar o link do [Figma](https://www.figma.com/file/rkDOHGPwwFtBNqEdHSuQPd/Projeto-02---Explorer?type=design&node-id=23%3A1929&mode=dev) aqui pra você.
+Para facilitar, deixarei o link do [Figma](https://www.figma.com/file/rkDOHGPwwFtBNqEdHSuQPd/Projeto-02---Explorer?type=design&node-id=23%3A1929&mode=dev) aqui pra você.
