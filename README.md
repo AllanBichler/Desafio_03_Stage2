@@ -1,3 +1,4 @@
+![Desafio_04_Stage2](https://github.com/AllanBichler/Desafio_04_Stage2/assets/110675388/f11d911e-37e9-4ce6-926b-7941d68ede29)
 <h1 align="center"> Desafio 3 - Stage 2 </h1>
 
 <p align="center">
@@ -19,7 +20,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - Git e Github
 - Figma
 
-## 💻 Desafio
+## 💻 Sobre o Desafio
 
 Sabemos que a maior parte do conteúdo disponível na internet hoje pode se tornar acessível apenas com a utilização correta dos elementos do HTML.
 
